@@ -1,1 +1,35 @@
-fdvdfg
+Goal of this Framework Implementation:
+
+1. create a maven project and add dependencies 
+Dependencies:
+Testng, selenium, RestAssured, Cucumber BDD, apache poi, extent report, AutoIT and Robot
+we should decide folder structure
+
+2. We should accomadate more than 1 browser(driver should be capable of running in more than one browser)
+a) pick from config.properties
+b) Excel
+c) run Args
+
+3. We should try have utilities which wait conditions.
+Eg: wait until an element disappears
+    wait unil the ajax call complets
+    Generic function - click, wait before clicking, wait along with the seconds, on every click add a method to capture the screenshot,
+ 	explicit wait and implicit wait
+    screenshot in a particular format and in a particular path
+    Excel related utils
+    Custom exceptions
+    annotations
+    Listeners
+
+4)Extent report implementation
+5)Logger
+6)Jenkins/Any equivalent 
+7)Able to re-run the failed test cases based on no.of failed tests
+8)Emailable test results and Dashboard for test result
+9)make the framework portable 
+
+
+
+
+
+	
