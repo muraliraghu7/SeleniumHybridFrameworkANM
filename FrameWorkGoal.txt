@@ -28,7 +28,9 @@ Eg: wait until an element disappears
 8)Emailable test results and Dashboard for test result
 9)make the framework portable 
 
-
+website to use:
+https://demoqa.com/
+http://www.seleniumframework.com/Practiceform/
 
 
 
