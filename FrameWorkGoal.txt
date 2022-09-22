@@ -9,6 +9,7 @@ we should decide folder structure
 a) pick from config.properties
 b) Excel
 c) run Args
+d) Follow POM design and accomodate page factory 
 
 3. We should try have utilities which wait conditions.
 Eg: wait until an element disappears
